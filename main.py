@@ -18,3 +18,4 @@ print('Animal {name}, type {type}, breed {breed} and age of {age} was added'.for
 
 print(animal1.age)
 print(animal1.name)
+print(animal1.breed)
