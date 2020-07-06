@@ -9,7 +9,7 @@ class Animal:
 
 name = input('Animal name')
 type = input('Animal type')
-bree = input('Animal breed')
+breed = input('Animal breed')
 age = input('Animal age')
 
 animal1 = Animal(name, type, breed, age)
