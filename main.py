@@ -15,3 +15,5 @@ age = input('Animal age')
 animal1 = Animal(name, type, breed, age)
 
 print('Animal {name}, type {type}, breed {breed} and age of {age} was added'.format(name, type, breed, age))
+
+print(animal1.name)
